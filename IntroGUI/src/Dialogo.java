@@ -5,6 +5,7 @@ import javax.swing.JOptionPane;
 /**
  * @author Romao
  * @date 30/06/16
+ * @version 1
  */
 
 public class Dialogo {
