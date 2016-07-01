@@ -1,2 +1,2 @@
 # EstudosJava
-Repositório para estudos pessoais de Java e afins
+Repositório para estudos pessoais de Java e Eclipse
