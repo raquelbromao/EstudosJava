@@ -38,6 +38,8 @@ public class HelloWorld {
 		
 		if (number1 >= number2)
 			System.out.printf("%d >= %d",number1,number2);
+		
+		input.close();
 	}
 
 }
