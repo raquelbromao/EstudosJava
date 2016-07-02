@@ -29,6 +29,8 @@ public class ContaTeste {
 		conta2.credito(depositoValor);
 		
 		System.out.printf("Saldo novo da conta 2: R$%.2f", conta2.getBalanco());
+		
+		input.close();
 	}
 
 }
