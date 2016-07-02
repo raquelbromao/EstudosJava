@@ -28,6 +28,8 @@ public class GradeBookTest {
 		
 		//EXIBE valor de nomeCurso para objeto exeGradeBook
 		System.out.printf("\nNome do novo objeto e: %s\n",exeGradeBook.getNomeCurso());
+		
+		input.close();
 	}
 
 }
