@@ -17,10 +17,10 @@ public class Dialogo {
 		JOptionPane.showMessageDialog(null, "Welcome \nTo Java");
 
 		// EXIBE caixa de diálogo com inserção de entrada pelo usuário
-		String noome = JOptionPane.showInputDialog("Qual seu noome?");
+		String nome = JOptionPane.showInputDialog("Qual seu nome?");
 
 		// FORMATA a string adicionando o noome do usuário
-		String mensagem = String.format("Bem-vindo, %s, a Programacao Java", noome);
+		String mensagem = String.format("Bem-vindo, %s, a Programacao Java", nome);
 
 		// EXIBE a mensagem com o noome do usuário
 		JOptionPane.showMessageDialog(null, mensagem);
